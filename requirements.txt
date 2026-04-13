@@ -1,0 +1,7 @@
+openai
+faiss-cpu
+sentence-transformers
+python-docx
+pywin32; sys_platform == 'win32'
+python-dotenv
+numpy
